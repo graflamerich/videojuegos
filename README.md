@@ -1,2 +1,2 @@
 # videojuegos
-Identificar patrones que determinen el éxito de un videojuego.
+Identificar patrones de forma divertida, que determinen el éxito de un videojuego.
